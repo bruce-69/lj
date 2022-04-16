@@ -1,11 +1,15 @@
 
 
-p { 
 
-   color : rgba(56, 151, 215, 0.766); 
-}
 
-body { 
-margin-left: 10rem;
-margin-right:10rem;
-}
+header {
+   display:flex;
+   align-items: center;
+   justify-content: flex-end;
+ }
+ body {
+   display:flex;
+   align-items: center;
+   justify-content: flex-end;
+ }
+ 
