@@ -3,13 +3,28 @@
 
 
 header {
-   display:flex;
-   align-items: center;
-   justify-content: flex-end;
- }
- body {
+   
+   width: 100%;
+   background-color: rgb(77, 119, 255);
    display:flex;
    align-items: center;
    justify-content: flex-end;
  }
  
+ img{ 
+width: 160px;
+height:  150px;
+ }
+ *{
+   margin: 0;
+   padding: 0;
+} 
+header{
+ width:100%;
+}
+
+
+body{
+background-color: rgb(86, 187, 241);
+
+}
